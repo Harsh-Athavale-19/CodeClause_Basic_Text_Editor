@@ -14,8 +14,7 @@ This Rich Text Editor is created as part of Internship Task 2 for CodeClause. It
 **Client:** HTML, CSS, JavaScript, Font Awesome
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Rich Text Editor ](https://github.com/Harsh-Athavale-19/CodeClause_Basic_Text_Editor/assets/73172570/485a9b39-cdf5-43f9-92be-99da9356c3a2)
 
 ## Contributions
 
